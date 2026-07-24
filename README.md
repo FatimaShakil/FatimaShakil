@@ -61,8 +61,9 @@ I'm an AI/ML Engineer based in Karachi who builds systems that combine classical
 
 ### 📊 GitHub Stats
 
-<p align="center"> <img height="165" src="https://github-readme-stats-mu-lilac-55.vercel.app/apiusername=FatimaShakil&show_icons=true&theme=default&hide_border=true&count_private=true" /> 
-  <img height="165" src="https://github-readme-stats-mu-lilac-55.vercel.app/api/top-langs/?username=FatimaShakil&layout=compact&theme=default&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=FatimaShakil&theme=default&hide_border=true" /> </p>
+ <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=FatimaShakil&theme=default&hide_border=true" /> </p>
+
+  <p align="center"> <img height="165" src="https://github-readme-stats-mu-lilac-55.vercel.app/api?username=FatimaShakil&show_icons=true&theme=default&hide_border=true&count_private=true" /> <img height="165" src="https://github-readme-stats-mu-lilac-55.vercel.app/api/top-langs/?username=FatimaShakil&layout=compact&theme=default&hide_border=true" /> </p> 
 ---
 
 ### 🤝 Connect With Me
