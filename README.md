@@ -37,46 +37,8 @@ I'm an AI/ML Engineer based in Karachi who builds systems that combine classical
 
 ---
 
-### 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/FatimaShakil/Automated-Essay-Evaluation-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=FatimaShakil&repo=Automated-Essay-Evaluation-System&theme=default" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/FatimaShakil/LafzEngine">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=FatimaShakil&repo=LafzEngine&theme=default" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/FatimaShakil/Simmer-and-Sage">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=FatimaShakil&repo=Simmer-and-Sage&theme=default" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/FatimaShakil/Movie-Recommendation-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=FatimaShakil&repo=Movie-Recommendation-System&theme=default" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/FatimaShakil/CineVerse-Cinema-Booking-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=FatimaShakil&repo=CineVerse-Cinema-Booking-System&theme=default" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/FatimaShakil/AsaanGhar">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=FatimaShakil&repo=AsaanGhar&theme=default" />
-      </a>
-    </td>
-  </tr>
-</table>
+🚀 Featured Projects
+<table> <tr> <td width="50%" valign="top"> <a href="https://github.com/FatimaShakil/Automated-Essay-Evaluation-System"> <img src="https://github-readme-stats-mu-lilac-55.vercel.app/api/pin/?username=FatimaShakil&repo=Automated-Essay-Evaluation-System&theme=default" /> </a> </td> <td width="50%" valign="top"> <a href="https://github.com/FatimaShakil/LafzEngine"> <img src="https://github-readme-stats-mu-lilac-55.vercel.app/api/pin/?username=FatimaShakil&repo=LafzEngine&theme=default" /> </a> </td> </tr> <tr> <td width="50%" valign="top"> <a href="https://github.com/FatimaShakil/Simmer-and-Sage"> <img src="https://github-readme-stats-mu-lilac-55.vercel.app/api/pin/?username=FatimaShakil&repo=Simmer-and-Sage&theme=default" /> </a> </td> <td width="50%" valign="top"> <a href="https://github.com/FatimaShakil/Movie-Recommendation-System"> <img src="https://github-readme-stats-mu-lilac-55.vercel.app/api/pin/?username=FatimaShakil&repo=Movie-Recommendation-System&theme=default" /> </a> </td> </tr> <tr> <td width="50%" valign="top"> <a href="https://github.com/FatimaShakil/CineVerse-Cinema-Booking-System"> <img src="https://github-readme-stats-mu-lilac-55.vercel.app/api/pin/?username=FatimaShakil&repo=CineVerse-Cinema-Booking-System&theme=default" /> </a> </td> <td width="50%" valign="top"> <a href="https://github.com/FatimaShakil/AsaanGhar"> <img src="https://github-readme-stats-mu-lilac-55.vercel.app/api/pin/?username=FatimaShakil&repo=AsaanGhar&theme=default" /> </a> </td> </tr> </table> 
 
 <details>
 <summary>📖 More about each project</summary>
@@ -95,28 +57,14 @@ I'm an AI/ML Engineer based in Karachi who builds systems that combine classical
 **[AsaanGhar](https://github.com/FatimaShakil/AsaanGhar)** — A Python-based smart home automation system with a GUI for simulating and controlling household devices.
 
 </details>
-
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FatimaShakil&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaShakil&layout=compact&theme=default&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FatimaShakil&theme=default&hide_border=true" />
-</p>
-
+<p align="center"> <img height="165" src="https://github-readme-stats-mu-lilac-55.vercel.app/apiusername=FatimaShakil&show_icons=true&theme=default&hide_border=true&count_private=true" /> 
+  <img height="165" src="https://github-readme-stats-mu-lilac-55.vercel.app/api/top-langs/?username=FatimaShakil&layout=compact&theme=default&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=FatimaShakil&theme=default&hide_border=true" /> </p>
 ---
 
 ### 🤝 Connect With Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/fatima-shakil-5a6069172">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<p align="center"><i>Or just open an issue — I read everything.</i></p>
+<p align="center"> <a href="https://linkedin.com/in/fatima-shakil-5a6069172"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:fatimashakil829@gmail.com"> <img src="https://img.shields.io/badge/Email-fatimashakil829%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p> <p align="center"><i>Or just open an issue — I read everything.</i></p>
