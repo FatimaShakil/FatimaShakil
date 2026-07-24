@@ -20,7 +20,7 @@
 
 ### 🧠 About Me
 
-I'm an AI/ML Engineer based in Karachi who builds systems that combine classical NLP techniques, fine-tuned language models, and full-stack applications — from essay scoring pipelines to smart home automation.
+I'm an AI/ML Engineer based in Karachi who builds systems that combine classical NLP techniques, fine-tuned language models, and full-stack applications.
 
 - 🔭 Currently working on NLP systems for **Urdu transliteration** and **automated essay evaluation**
 - 🌱 Exploring MLOps, applied AI in production, and end-to-end model deployment
