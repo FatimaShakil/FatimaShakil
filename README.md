@@ -22,9 +22,8 @@
 
 I'm an AI/ML Engineer based in Karachi who builds systems that combine classical NLP techniques, fine-tuned language models, and full-stack applications.
 
-- 🔭 Currently working on NLP systems for **Urdu transliteration** and **automated essay evaluation**
+- 🔭 Currently working on NLP systems and Computer Vision.
 - 🌱 Exploring MLOps, applied AI in production, and end-to-end model deployment
-- 💬 Ask me about BERT embeddings, NER pipelines, and XGBoost
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/fatima-shakil-5a6069172)
 
 ---
